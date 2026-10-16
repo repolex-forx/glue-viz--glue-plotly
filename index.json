@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-plotly",
+  "versions": [
+    {
+      "commit": "127c20875b1b004a358c59519d63b3dafd66276e",
+      "tag": "",
+      "parsed_at": "2026-10-16T23:43:23.411886+00:00"
+    }
+  ]
+}
