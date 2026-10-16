@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-plotly/commit/127c20875b1b004a358c59519d63b3dafd66276e",
       "git:hexsha": "127c20875b1b004a358c59519d63b3dafd66276e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-plotly/commit/91bd5b6b9bcf2e6616e6b176239980a3f30df0a9",
